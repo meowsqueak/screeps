@@ -5,6 +5,8 @@
 //  - need to direct additional upgraders to other sources, if source is blocked
 //  - display some metrics periodically (e.g. upgrade rate, harvest rate, CPU time per creep)
 
+// test via github
+
 var errors = require('errors');
 
 var roles = {
