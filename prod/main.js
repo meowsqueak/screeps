@@ -1,4 +1,5 @@
 // Notes:
+//  - github integration - DONE
 //  - need to prioritise harvester respawning - DONE
 //  - need to suspend spending energy (e.g. building) when needing spawn - DONE
 //  - need to direct additional upgraders to other sources, if source is blocked
