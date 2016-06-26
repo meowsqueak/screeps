@@ -6,6 +6,7 @@
 //  - display some metrics periodically (e.g. upgrade rate, harvest rate, CPU time per creep)
 
 // test via github
+// another test via github
 
 var errors = require('errors');
 
